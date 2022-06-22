@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./src",
+    "paths": {
+      "configs/*": ["./configs/*"],
+      "shared/*": ["./shared/*"],
+      "routes/*": ["./routes/*"],
+      "constants/*": ["./constants/*"],
+      "pages/*": ["./pages/*"],
+      "recoilState/*": ["./recoilState/*"],
+      "assets/*": ["./assets/*"],
+      "utils/*": ["./utils/*"]
+    }
+  }
+}
